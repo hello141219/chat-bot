@@ -8,9 +8,6 @@ This is a simple AI chat application.
   - `chatbot.py`: Logic for the AI chatbot.
   - `ui.py`: User interface code.
 
-- `tests/`: Contains test code.
-  - `test_chatbot.py`: Tests for the chatbot logic.
-
 - `requirements.txt`: Lists the Python dependencies for the project.
 
 ## Getting Started
